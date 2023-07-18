@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "deep-object-diff": "^1.1.9",
+    "stylelint-config-recommended": "^13.0.0",
+    "stylelint-stylistic": "^0.4.3"
+  }
+}
